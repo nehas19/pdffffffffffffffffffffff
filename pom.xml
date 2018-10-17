@@ -8,6 +8,7 @@
   <name>neha-app</name>
   <url>http://maven.apache.org</url>
 <properties>
+	
      	
      	<sonar.jdbc.url>
 	jdbc:mysql://localhost:3306/sonar
